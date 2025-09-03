@@ -6,7 +6,7 @@ This is the official implementation of the paper:
 
 Accepted to the Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP), 2025.
 
-All codes are written by Heehyeon Kim (heehyeon@kaist.ac.kr).\
+All codes are written by Heehyeon Kim (heehyeon@kaist.ac.kr) and Kyeongryul Lee (klee0257@kaist.ac.kr).\
 If you use this code, please cite our paper.
 
 ## License
