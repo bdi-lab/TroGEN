@@ -1,0 +1,27 @@
+{
+    "political_usage": {
+        "disguised_intend": {
+            "elapsed_time": 908.4865236282349,
+            "num_samples": 90
+        }
+    },
+    "fraud": {
+        "disguised_intend": {
+            "elapsed_time": 959.0967395305634,
+            "num_samples": 90
+        }
+    },
+    "sexual": {
+        "disguised_intend": {
+            "elapsed_time": 977.6990687847137,
+            "num_samples": 90
+        }
+    },
+    "illegal": {
+        "disguised_intend": {
+            "elapsed_time": 1064.38445353508,
+            "num_samples": 90
+        }
+    },
+    "total_elapsed_time": "1:05:09.666785"
+}
