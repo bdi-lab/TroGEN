@@ -1,12 +1,25 @@
 # Beneath the Facade: Probing Safety Vulnerabilities in LLMs via Auto-Generated Jailbreak Prompts
 
-This is the official implementation of the paper:
+This is the official code and data of the following [paper](https://aclanthology.org/2025.findings-emnlp.960/):
 
 **Beneath the Facade: Probing Safety Vulnerabilities in LLMs via Auto-Generated Jailbreak Prompts**  
-*To appear in Findings of the Association for Computational Linguistics: EMNLP 2025*
+*Findings of the Association for Computational Linguistics: EMNLP 2025*
 
 All code was written by **Heehyeon Kim** (heehyeon@kaist.ac.kr) and **Kyeongryul Lee** (klee0257@kaist.ac.kr).  
 If you use this repository, please cite our paper.
+
+```bibtex
+@inproceedings{trogen,
+    title = "Beneath the Facade: Probing Safety Vulnerabilities in {LLM}s via Auto-Generated Jailbreak Prompts",
+    author = "Kim, Heehyeon and Lee, Kyeongryul and Whang, Joyce Jiyoung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.960/",
+    doi = "10.18653/v1/2025.findings-emnlp.960",
+    pages = "17668--17700"
+}
+```
 
 ## Requirements
 
